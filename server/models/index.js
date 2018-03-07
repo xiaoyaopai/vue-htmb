@@ -51,4 +51,3 @@ Object.keys(models).forEach(function (modelName) {
 
 module.exports = models;
 module.exports.client = client;
-
